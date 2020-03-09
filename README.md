@@ -9,4 +9,4 @@ Autoregressive the strategy could predict mispricing in both options, and
 produce signals to trade on the smile.
 
 the code is transformed and edited version of @MarcGumowski version of Dynamic Semiparametric Factor Model, which is based on 
-Fengler et. 2007, "semiparametric factor model for implied volatility". 
+Fengler and al. (2007) : "A Dynamic Semiparametric Factor Model for Implied Volatility String Dynamics" 
