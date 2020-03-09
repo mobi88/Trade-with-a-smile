@@ -1,5 +1,5 @@
 # Trade-with-a-smile
-Master Thesis
+Master Thesis (under construction) 
 
 
 Detecting Implied Volatility discrepancies between options on ETFs and
